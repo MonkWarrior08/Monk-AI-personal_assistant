@@ -7,8 +7,8 @@ Monk-AI is a sophisticated personal assistant system that combines advanced AI c
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/MonkWarrior08/DeepTutor-AI.git
-cd DeepTutor-AI
+git clone https://github.com/MonkWarrior08/Monk-AI-personal_assistant.git
+cd Monk-AI-personal_assistant
 ```
 
 2. Install dependencies using the requirements file:
