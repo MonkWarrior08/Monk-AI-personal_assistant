@@ -17,6 +17,3 @@ Monk-AI provides a sophisticated dataset for developing personal assistant syste
 - Use this dataset to fine-tune AI models by uploading it via the OpenAI platform.
 - The dataset is structured in JSON format, ready to be integrated into your fine-tuning pipeline.
 
-## License
-
-This project is licensed under the MIT License.
